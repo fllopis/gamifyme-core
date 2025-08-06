@@ -5,6 +5,7 @@
     <img alt="php" src="https://img.shields.io/badge/PHP-v8.1.0-yellow">
     <img alt="mariadb" src="https://img.shields.io/badge/MariaDB-v11.4.7-yellow">
     <img alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-v5.3.0-yellow">
+    <img alt="bootstrap" src="https://img.shields.io/badge/Javascript-ES6+-yellow">
     <br />
     <img alt="php" src="https://img.shields.io/badge/php-blue">
     <img alt="mysql" src="https://img.shields.io/badge/mysql-blue">
